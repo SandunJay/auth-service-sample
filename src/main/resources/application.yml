@@ -8,13 +8,13 @@ spring:
     import: "optional:configserver:http://localhost:8088"
   data:
     mongodb:
-      uri: mongodb+srv://Sandun2001:Sandun2001@cluster0.r33qmfk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      uri: **
       database: AuthService
   mail:
     host: smtp.gmail.com
     port: 587
-    username: learncentral.ad@gmail.com
-    password: qbvf kmll aqxq xdqw
+    username: **
+    password: **
     properties:
       mail.smtp.auth: true
       mail.smtp.starttls.enable: true
@@ -26,14 +26,6 @@ application:
       expiration: 86400000000
       refresh-token:
         expiration: 604800000000
-
-#logging:
-#  level:
-#    com.sanjay.learncentral.service.serviceImpl.CheckoutServiceImpl: INFO
-#  pattern:
-#    console: "%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n"
-#  file:
-#    name: /logs/auth-service.log
 
 
 # Docker-specific configuration
@@ -45,13 +37,13 @@ spring:
       on-profile: docker
   data:
     mongodb:
-      uri: mongodb+srv://Sandun2001:Sandun2001@cluster0.r33qmfk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      uri: **
       database: AuthService
   mail:
     host: smtp.gmail.com
     port: 587
-    username: learncentral.ad@gmail.com
-    password: qbvf kmll aqxq xdqw
+    username: **
+    password: **
     properties:
       mail.smtp.auth: true
       mail.smtp.starttls.enable: true
@@ -63,46 +55,3 @@ application:
       expiration: 86400000000
       refresh-token:
         expiration: 604800000000
-
-#logging:
-#  level:
-#    com.sanjay.learncentral.service.serviceImpl.CheckoutServiceImpl: INFO
-#  pattern:
-#    console: "%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n"
-#  file:
-#    name: /logs/auth-service.log
-
-
-
-
-#spring:
-#  data:
-#    mongodb:
-#      uri: mongodb+srv://Sandun2001:Sandun2001@cluster0.r33qmfk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-#      database: AuthService
-#  mail:
-#    host: smtp.gmail.com
-#    port: 587
-#    username: learncentral.ad@gmail.com
-#    password: qbvf kmll aqxq xdqw
-#    properties:
-#      mail.smtp.auth: true
-#      mail.smtp.starttls.enable: true
-#
-#server:
-#  port: 7015
-#
-#application:
-#  security:
-#    jwt:
-#      secretKey: FQvD9ODm6DYHnQMLFJlhYnxrLjGlFwx4/DftAy3vhgJpmpWQmpgrbChQqLNfj0OD
-#      expiration: 86400000000
-#      refresh-token:
-#        expiration: 604800000000
-#logging:
-#  level:
-#    com.sanjay.learncentral.service.serviceImpl.CheckoutServiceImpl: INFO
-#  pattern:
-#    console: "%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n"
-#  file:
-#    name: D:/checkout-service.log
