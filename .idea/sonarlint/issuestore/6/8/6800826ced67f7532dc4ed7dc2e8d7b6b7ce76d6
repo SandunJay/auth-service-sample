@@ -1,26 +1,2 @@
 
-Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(»ûñƒøÿÿÿÿ
-XWeb:UnsupportedTagsInHtml5Check	"(Remove this deprecated "center" element.(Ÿêşÿÿÿÿ
-9	Web:S5256"%Add "<th>" headers to this "<table>".(”ø®s
-?	Web:S5256"%Add "<th>" headers to this "<table>".(Óø÷Òşÿÿÿÿ
-:	Web:S5256"%Add "<th>" headers to this "<table>".(Œ÷‘
-:	Web:S5256."%Add "<th>" headers to this "<table>".(¿¦ƒ¢
->	Web:S1827:")Remove this deprecated "align" attribute.(²ÛÀ»
-?	Web:S5256E"%Add "<th>" headers to this "<table>".(Şøğ úÿÿÿÿ
-C	Web:S1827E")Remove this deprecated "width" attribute.(Şøğ úÿÿÿÿ
-:	Web:S5256P"%Add "<th>" headers to this "<table>".(úñŒĞ
-:	Web:S5256Y"%Add "<th>" headers to this "<table>".(ÆŠåÍ
-:	Web:S5256e"%Add "<th>" headers to this "<table>".(æ Ï…
-@	Web:S5256’"%Add "<th>" headers to this "<table>".(Şøğ úÿÿÿÿ
-D	Web:S1827’")Remove this deprecated "width" attribute.(Şøğ úÿÿÿÿ
-;	Web:S5256¦"%Add "<th>" headers to this "<table>".(úñŒĞ
-@	Web:S5256¶"%Add "<th>" headers to this "<table>".(Şøğ úÿÿÿÿ
-D	Web:S1827¶")Remove this deprecated "width" attribute.(Şøğ úÿÿÿÿ
-;	Web:S5256Ê"%Add "<th>" headers to this "<table>".(úñŒĞ
-;	Web:S5256Ó"%Add "<th>" headers to this "<table>".(ÆŠåÍ
-;	Web:S5256Ş"%Add "<th>" headers to this "<table>".(æ Ï…
-@	Web:S5256ú"%Add "<th>" headers to this "<table>".(Şøğ úÿÿÿÿ
-D	Web:S1827ú")Remove this deprecated "width" attribute.(Şøğ úÿÿÿÿ
-@	Web:S5256ˆ"%Add "<th>" headers to this "<table>".(âÉ´¯øÿÿÿÿ
-;	Web:S5256“"%Add "<th>" headers to this "<table>".(ï¨
-;	Web:S5256˜"%Add "<th>" headers to this "<table>".(æ Ï…
+dWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(ñ§½W8ŒÛ……2

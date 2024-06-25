@@ -9,3 +9,9 @@ a
 0src/main/resources/templates/session-enroll.html,9\0\90751f21545a3b54c945d84fe9f7801583c9b241
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+h
+8src/main/resources/templates/timetable-notification.html,5\a\5acfbca27d5c22b24e92ba328c7b0c8445eec517
+_
+/src/main/resources/templates/course-enroll.html,2\6\26022dab6355f34ee144b2de35833bf8afd20f85
+_
+/src/main/resources/templates/confirm-email.html,d\0\d09e42ba5c923800545c5a502172eda25a8093f9
